@@ -17,6 +17,7 @@ public class TestOfGIt {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("sunny prasad");
+        System.out.println("Vishal");
     }
     
 }
